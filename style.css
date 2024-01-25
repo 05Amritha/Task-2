@@ -1,0 +1,10 @@
+.container {
+    padding: 50px;
+    margin: left 50px;
+    margin: right 50px;
+    height: 300px;
+    width: 500px;
+    background-image: url("green.jpg");
+    font-family: cursive;background-repeat: no-repeat;
+   
+  }
